@@ -1,0 +1,186 @@
+dept,Rolle,Kjønn,Fornavn,Mellomnavn,Etternavn,Fødselsår,Postnummer,Poststedsnavn,Nettoformue,Nettoinntekt,Beregnet skatt,Kommunenummer,Kommunenavn
+,direktør,Kvinne,Kirsti Lovise,,Slotsvik,1963,6018,Ålesund,0,1385758,620224,1504,Ålesund
+,direktør,Kvinne,Elisabeth,Sørbøe,Aarsæther,1965,4848,Arendal,10110017,1699656,697966,906,Arendal
+KMD,departementsråd,Mann,Eivind,,Dale,1955,1434,Ås,2278200,1462132,620692,214,Ås
+NFD,ekspedisjonssjef,Mann,Knut Arne,Strand,Løkstad,1971,1430,Ås,0,842329,340260,214,Ås
+,direktør,Mann,Geir,,Bø,1955,1397,Nesøya,0,953949,416512,220,Asker
+KD,ekspedisjonssjef,Mann,Knut,,Børve,1957,1388,Borgen,0,1123791,471063,220,Asker
+KUD,ekspedisjonssjef,Mann,Steinar,,Lien,1958,1387,Asker,0,1180690,476086,220,Asker
+JD,ekspedisjonssjef,Kvinne,Unni,,Gunnes,1961,1386,Asker,0,1156666,489305,220,Asker
+,direktør,Mann,Lars Egil De,,Lange Kobberstad,1962,1396,Billingstad,1685230,1142778,496412,220,Asker
+OED,ekspedisjonssjef,Mann,Bjørn Ståle,,Haavik,1962,1397,Nesøya,454234,1216264,515776,220,Asker
+KMD,ekspedisjonssjef,Mann,Gisle,,Norheim,1963,1396,Billingstad,0,1095159,452219,220,Asker
+JD,ekspedisjonssjef,Mann,Øystein,,Mortensen,1970,1394,Nesbru,0,931831,372984,220,Asker
+HOD,ekspedisjonssjef,Mann,Geir,,Stene-Larsen,1955,1346,Gjettum,1316375,1291025,536325,219,Bærum
+SD,ekspedisjonssjef,Mann,Tore,,Raasok,1956,1350,Lommedalen,548688,1110680,456333,219,Bærum
+FIN,departementsråd,Mann,Hans Henrik,,Scheel,1956,1357,Bekkestua,4814049,1792206,774481,219,Bærum
+,direktør,Mann,Erik,Ørnulfson,Reiersøl-Johnsen,1958,3482,Tofte,627919,1277572,521193,219,Bærum
+,direktør,Mann,Kjetil,,Nilsen,1960,1349,Rykkinn,232860,1058993,439624,219,Bærum
+KLD,departementsråd,Mann,Tom,,Rådahl,1960,1365,Blommenholm,2696132,1429000,610570,219,Bærum
+NFD,ekspedisjonssjef,Mann,Vidar Jarle,,Landmark,1961,1362,Hosle,0,1175935,485507,219,Bærum
+UD,ekspedisjonssjef,Kvinne,Merete,Fjeld,Brattested,1963,1357,Bekkestua,2574439,1080872,454135,219,Bærum
+BFD,ekspedisjonssjef,Kvinne,Helga Berit,,Fjell,1963,1357,Bekkestua,2197001,1097417,448297,219,Bærum
+FD,ekspedisjonssjef,Mann,Dagfinn Christian,,Selvaag,1964,1359,Eiksmarka,1066161,930907,360772,219,Bærum
+UD,ekspedisjonssjef,Mann,Niels,,Engelschiøn,1965,1365,Blommenholm,0,870543,373468,219,Bærum
+NFD,ekspedisjonssjef,Kvinne,Wenche,,Stenberg,1965,1359,Eiksmarka,0,1078840,428755,219,Bærum
+,direktør,Mann,Sveinung,,Skule,1966,1359,Eiksmarka,0,1126956,452194,219,Bærum
+BFD,ekspedisjonssjef,Mann,Erik,Bolstad,Pettersen,1966,1356,Bekkestua,0,1580289,687688,219,Bærum
+FD,ekspedisjonssjef,Kvinne,Hege,,Sjo,1968,1368,Stabekk,0,966689,375682,219,Bærum
+FIN,ekspedisjonssjef,Mann,Espen,,Erlandsen,1969,1337,Sandvika,332481,1391695,589357,219,Bærum
+KMD,ekspedisjonssjef,Mann,Jan,,Hjelle,1970,1350,Lommedalen,0,1062736,442978,219,Bærum
+,direktør,Kvinne,Nina,Schanke,Funnemark,1970,1363,Høvik,3833060,1532940,644217,219,Bærum
+KLD,ekspedisjonssjef,Mann,Frode Tarjei,,Selman,1973,1365,Blommenholm,0,935687,364342,219,Bærum
+JD,ekspedisjonssjef,Mann,Ketil,Bøe,Moen,1975,1359,Eiksmarka,0,1211271,534437,219,Bærum
+FIN,ekspedisjonssjef,Mann,Øystein,,Schønberg-Grevbo,1978,1362,Hosle,0,1448325,641602,219,Bærum
+,direktør,Mann,Lars,,Sørgard,1959,5136,Mjølkeråen,3608567,1175432,487753,1201,Bergen
+,direktør,Mann,Harald,Engeset,Nybølet,1960,5011,Bergen,6434223,1205114,505532,1201,Bergen
+,direktør,Kvinne,Liv Kristin,,Holmefjord,1962,5146,Fyllingsdalen,43499900,2998941,1402888,1201,Bergen
+LMD,ekspedisjonssjef,Kvinne,Viil,,Søyland,1972,3021,Drammen,0,858904,351064,602,Drammen
+LMD,departementsråd,Kvinne,Anne Marie,,Glosli,1969,1880,Eidsberg,1763525,1050919,443756,125,Eidsberg
+,direktør,Kvinne,Gunn Merete,,Paulsen,1973,6800,Førde,0,977600,399104,1432,Førde
+,direktør,Mann,Pål,,Mikkelsen,1962,1767,Halden,0,3243042,1463919,106,Fredrikstad
+,direktør,Mann,Gudmund,,Gjølstad,1973,1626,Manstad,741162,1027772,424587,106,Fredrikstad
+,direktør,Mann,John-Eivind,,Velure,1976,4638,Kristiansand S,0,964566,403213,1001,Kristiansand
+SD,ekspedisjonssjef,Mann,Anders,,Buttedahl,1962,3406,Tranby,871237,1210811,493877,626,Lier
+LMD,ekspedisjonssjef,Kvinne,Bente,,Odlo,1973,2611,Lillehammer,0,858839,332403,501,Lillehammer
+JD,departementsråd,Kvinne,Heidi,Sundsbø,Heggenes,1965,770,Oslo,5390229,1748258,757064,230,Lørenskog
+NFD,ekspedisjonssjef,Mann,Yngve Arne,,Torgersen,1962,1524,Moss,0,1004781,425214,104,Moss
+KD,ekspedisjonssjef,Kvinne,Kjersti,,Flåten,1968,194,Oslo,1028260,872177,335035,216,Nesodden
+SMK,ekspedisjonssjef,Mann,Jon,Elvedal,Fredriksen,1969,1456,Nesoddtangen,1432673,1362767,561252,216,Nesodden
+KMD,ekspedisjonssjef,Mann,Gunnar,,Andresen,1956,3015,Drammen,3975813,1200523,516021,233,Nittedal
+,direktør,Mann,Audun,,Hågå,1957,1482,Nittedal,1680467,1187117,479466,233,Nittedal
+JD,ekspedisjonssjef,Mann,Thor Arne,,Aass,1957,1482,Nittedal,2633726,1349257,577945,233,Nittedal
+FIN,ekspedisjonssjef,Mann,Omar,,Dajani,1972,2900,Fagernes,0,1259832,565301,542,Nord-Aurdal
+,direktør,Mann,Svein,,Bjørkås,1953,1410,Kolbotn,0,895394,360144,217,Oppegård
+FIN,ekspedisjonssjef,Mann,Geir,,Åvitsland,1962,1410,Kolbotn,983688,1319257,552380,217,Oppegård
+BFD,ekspedisjonssjef,Kvinne,Cathrin,,Sætre,1968,1420,Svartskog,0,1151252,470289,217,Oppegård
+FIN,ekspedisjonssjef,Mann,Amund,Fossum,Holmsen,1968,1412,Sofiemyr,0,1492155,650007,217,Oppegård
+BFD,departementsråd,Mann,Dag Thomas,,Gisholt,1969,1412,Sofiemyr,0,1321031,570642,217,Oppegård
+KD,ekspedisjonssjef,Kvinne,Anne Line,,Wold,1975,1415,Oppegård,0,787360,320057,217,Oppegård
+SD,ekspedisjonssjef,Kvinne,Kirsten Ullbæk,,Selvig,1950,862,Oslo,3809627,983537,400093,301,Oslo
+,direktør,Mann,Ole Johan,,Harbitz,1950,776,Oslo,0,1151549,469883,301,Oslo
+OED,ekspedisjonssjef,Mann,Per Håkon,,Høisveen,1950,368,Oslo,8597882,1600431,709732,301,Oslo
+JD,ekspedisjonssjef,Mann,Terje,,Sjeggestad,1951,774,Oslo,0,1187107,529829,301,Oslo
+FIN,ekspedisjonssjef,Mann,Stig Bernhard,,Sollund,1952,873,Oslo,7193018,1397431,611951,301,Oslo
+KLD,ekspedisjonssjef,Mann,Einar Bjørn,,Holtane,1953,976,Oslo,7684554,1085810,485021,301,Oslo
+KMD,ekspedisjonssjef,Kvinne,Unni,,Korsnes,1953,374,Oslo,862200,1253843,507735,301,Oslo
+UD,ekspedisjonssjef,Mann,Knut,,Hauge,1953,757,Oslo,8732114,1270107,455837,301,Oslo
+HOD,ekspedisjonssjef,Mann,Petter,,Øgar,1953,960,Oslo,1291459,1280136,524622,301,Oslo
+HOD,ekspedisjonssjef,Kvinne,Kari,,Sønderland,1953,194,Oslo,1147326,1487772,594797,301,Oslo
+,direktør,Mann,Per Antonius,,Foss,1954,1364,Fornebu,0,1085454,457835,301,Oslo
+HOD,ekspedisjonssjef,Kvinne,Elin,,Anglevik,1957,752,Oslo,2242519,909064,363050,301,Oslo
+KMD,ekspedisjonssjef,Mann,Jarle,,Jensen,1957,263,Oslo,0,1003808,427102,301,Oslo
+,direktør,Mann,Bjørn Sverre,,Berg,1957,488,Oslo,2233456,1019913,414752,301,Oslo
+,direktør,Kvinne,Anne Pauline,,Jensen,1957,282,Oslo,1893760,1079108,433742,301,Oslo
+NFD,ekspedisjonssjef,Kvinne,Birgit,,Løyland,1957,781,Oslo,2607803,1083892,448411,301,Oslo
+,direktør,Mann,Rolf Gunnar,,Jørstad,1958,875,Oslo,0,1164327,489338,301,Oslo
+,direktør,Mann,Camilla,,Stoltenberg,1958,270,Oslo,6038248,1269306,579012,301,Oslo
+FIN,ekspedisjonssjef,Mann,Jan,,Bjørland,1958,779,Oslo,4702991,1351026,581883,301,Oslo
+,direktør,Mann,Bjørn Dagfinn,,Guldvog,1958,588,Oslo,0,1425306,628594,301,Oslo
+,direktør,Mann,Frode,,Forfang,1959,276,Oslo,2606291,1334772,557862,301,Oslo
+FD,departementsråd,Mann,Arne,,Røksund,1959,259,Oslo,330660,1485795,610975,301,Oslo
+,direktør,Kvinne,Ingrid,Dahl,Hovland,1959,881,Oslo,0,2643225,1186261,301,Oslo
+SD,ekspedisjonssjef,Mann,Ottar,,Ostnes,1960,1275,Oslo,0,929989,418294,301,Oslo
+UD,ekspedisjonssjef,Mann,Helge Andreas,,Seland,1960,1167,Oslo,995202,942587,386356,301,Oslo
+KLD,ekspedisjonssjef,Kvinne,Hæge Johanna,,Andenæs,1960,353,Oslo,2078706,1185575,479082,301,Oslo
+,direktør,Mann,Jan Fredrik,,Andresen,1960,377,Oslo,14409409,1476704,718730,301,Oslo
+,direktør,Mann,Morten,,Baltzersen,1960,1162,Oslo,2952684,1586108,675231,301,Oslo
+,direktør,Kvinne,Anne Lise,,Sannerud,1961,265,Oslo,0,595681,319547,301,Oslo
+,direktør,Kvinne,Elisabeth,Lier,Haugseth,1961,657,Oslo,771177,968891,387235,301,Oslo
+,direktør,Mann,Per-Arne,,Horne,1961,178,Oslo,1720070,1169552,456684,301,Oslo
+HOD,departementsråd,Mann,Bjørn-Inge,,Larsen,1961,1177,Oslo,0,1312586,602609,301,Oslo
+LMD,ekspedisjonssjef,Mann,Pål Vidar,,Sollie,1962,475,Oslo,0,1042287,425654,301,Oslo
+,direktør,Mann,Geir Andreas,,Samuelsen,1962,489,Oslo,2764551,1044072,419079,301,Oslo
+KMD,ekspedisjonssjef,Kvinne,Ann Ingeborg,,Hjetland,1962,875,Oslo,2454208,1141694,467704,301,Oslo
+HOD,ekspedisjonssjef,Mann,Ole Trond,,Andersen,1962,785,Oslo,106396,1211893,498776,301,Oslo
+UD,ekspedisjonssjef,Kvinne,Katja Christina,,Nordgaard,1962,257,Oslo,30389395,1216357,699329,301,Oslo
+UD,departementsråd,Mann,Tore,,Hattrem,1962,364,Oslo,0,1252306,364609,301,Oslo
+KD,departementsråd,Mann,Petter,,Skarheim,1962,1163,Oslo,4874858,1410949,618427,301,Oslo
+,direktør,Kvinne,Mari,,Trommald,1962,875,Oslo,0,1509231,628778,301,Oslo
+ASD,departementsråd,Kvinne,Eli,,Telhaug,1962,250,Oslo,7751649,1526519,677719,301,Oslo
+UD,ekspedisjonssjef,Mann,Johan Christopher,,Vibe,1963,172,Oslo,1235092,1071624,364665,301,Oslo
+ASD,ekspedisjonssjef,Mann,Tom,,Gulliksen,1963,689,Oslo,948056,1136503,458608,301,Oslo
+UD,ekspedisjonssjef,Mann,Andreas,,Gaarder,1963,756,Oslo,2440220,1177477,376846,301,Oslo
+NFD,ekspedisjonssjef,Mann,Erling,,Rimestad,1963,265,Oslo,1060507,1200717,388238,301,Oslo
+KUD,departementsråd,Kvinne,Kristin,,Berge,1963,382,Oslo,2896755,1354091,586483,301,Oslo
+NFD,departementsråd,Kvinne,Mette,Ingeborgdatter,Wikborg,1963,268,Oslo,11076440,1718790,775531,301,Oslo
+KD,ekspedisjonssjef,Kvinne,Hege,,Nygård,1964,165,Oslo,0,1088362,448277,301,Oslo
+,direktør,Mann,Bjørn Erik,,Thon,1964,587,Oslo,0,1093451,451130,301,Oslo
+,direktør,Mann,Jørn,,Rolfsen,1964,752,Oslo,0,1096569,458705,301,Oslo
+KUD,ekspedisjonssjef,Mann,Lars Audun,,Granly,1964,3133,Duken,0,1103558,460935,301,Oslo
+,direktør,Kvinne,Christine,,Bergland,1964,264,Oslo,0,1212527,530657,301,Oslo
+,direktør,Mann,Osmund,,Kaldheim,1964,282,Oslo,1367692,1254813,510218,301,Oslo
+,direktør,Kvinne,Ellen Christine,,Hambro,1964,484,Oslo,1964528,1392713,591632,301,Oslo
+SD,departementsråd,Kvinne,Villa,,Kulild,1964,890,Oslo,43019268,1540472,959224,301,Oslo
+HOD,ekspedisjonssjef,Kvinne,Anne-Cathrine,Haug,Jørgensen,1965,775,Oslo,0,1143035,463347,301,Oslo
+HOD,ekspedisjonssjef,Kvinne,Målfrid,,Bjærum,1965,884,Oslo,5880240,1211088,521506,301,Oslo
+,direktør,Mann,Geir,,Axelsen,1965,687,Oslo,0,1457558,623202,301,Oslo
+,direktør,Kvinne,Libe,,Rieber-Mohn,1965,258,Oslo,0,1545823,594839,301,Oslo
+,direktør,Mann,Hans Christian,,Holte,1965,884,Oslo,0,1627154,725870,301,Oslo
+BFD,ekspedisjonssjef,Kvinne,Emma Christine,Jensen,Stenseth,1966,976,Oslo,0,938638,398623,301,Oslo
+UD,ekspedisjonssjef,Kvinne,Lajla,Brandt,Jakhelln,1966,880,Oslo,2307131,1130211,453332,301,Oslo
+,direktør,Kvinne,Inga Reidun,,Bolstad,1966,1182,Oslo,676650,1209451,497489,301,Oslo
+KD,ekspedisjonssjef,Kvinne,Lisbeth Merethe,Fransplass,Røren,1966,283,Oslo,3840799,1746440,670658,301,Oslo
+,direktør,Mann,Øystein,,Lund,1967,1176,Oslo,0,898042,352772,301,Oslo
+UD,ekspedisjonssjef,Kvinne,Tine,Mørch,Smith,1967,776,Oslo,5304864,1011579,432102,301,Oslo
+LMD,ekspedisjonssjef,Kvinne,Hanne,,Yssen,1967,487,Oslo,1097136,1090928,437845,301,Oslo
+ASD,ekspedisjonssjef,Kvinne,Ragnhild,,Nordaas,1967,969,Oslo,1444471,1157621,471618,301,Oslo
+KMD,ekspedisjonssjef,Mann,Jan Olav,,Pettersen,1968,880,Oslo,0,812777,311558,301,Oslo
+,direktør,Kvinne,Mari,,Velsand,1968,1182,Oslo,0,1035395,436019,301,Oslo
+JD,ekspedisjonssjef,Mann,Fredrik,Bøckman,Finstad,1968,773,Oslo,405736,1133422,461887,301,Oslo
+,direktør,Kvinne,Ingunn,Midttun,Godal,1968,875,Oslo,0,1187675,490785,301,Oslo
+FIN,ekspedisjonssjef,Mann,Pål,,Longva,1968,671,Oslo,0,1383012,590308,301,Oslo
+OED,ekspedisjonssjef,Mann,Lars Erik,,Aamot,1968,373,Oslo,9098497,1389011,618475,301,Oslo
+HOD,ekspedisjonssjef,Mann,Espen,,Aasen,1968,171,Oslo,0,1408030,600137,301,Oslo
+,direktør,Mann,Øystein,,Børmer,1968,1162,Oslo,1049371,1486010,635368,301,Oslo
+SMK,departementsråd,Kvinne,Anne,Nafstad,Lyftingsmo,1968,382,Oslo,7911788,1777043,800726,301,Oslo
+,direktør,Mann,Johnny,,Welle,1968,788,Oslo,0,1938733,848971,301,Oslo
+,direktør,Kvinne,Hanna,Kosonen,Geiran,1969,587,Oslo,0,797726,311606,301,Oslo
+,direktør,Mann,Øystein Vidar,,Strand,1969,1086,Oslo,0,958553,404224,301,Oslo
+JD,ekspedisjonssjef,Mann,Håvard,,Bekkelund,1969,861,Oslo,0,972030,424827,301,Oslo
+OED,ekspedisjonssjef,Mann,Bjørn,,Haugstad,1969,682,Oslo,0,1002373,418433,301,Oslo
+KMD,ekspedisjonssjef,Kvinne,Sølve Monica,,Steffensen,1969,362,Oslo,0,1135947,462985,301,Oslo
+HOD,ekspedisjonssjef,Mann,Lars,Bjørgan,Schrøder,1969,685,Oslo,7655152,1199471,527925,301,Oslo
+JD,ekspedisjonssjef,Mann,Øistein,,Knudsen,1969,476,Oslo,0,1353675,569176,301,Oslo
+NFD,ekspedisjonssjef,Kvinne,Cathrine,,Meland,1969,862,Oslo,2935249,1445105,612438,301,Oslo
+NFD,ekspedisjonssjef,Kvinne,Camilla,Bretteville,Froyn,1970,851,Oslo,0,950565,369716,301,Oslo
+SD,ekspedisjonssjef,Mann,Jon Fredrik,Birkheim,Arnesen,1970,1185,Oslo,0,1035112,439439,301,Oslo
+,direktør,Kvinne,Hege,,Nilssen,1970,766,Oslo,0,1127598,473806,301,Oslo
+,direktør,Mann,Steffen,,Sutorius,1970,481,Oslo,3550752,1285541,527667,301,Oslo
+,direktør,Mann,Kjetil,,Lund,1970,752,Oslo,0,1575201,678926,301,Oslo
+HOD,ekspedisjonssjef,Mann,Thomas,Neby,Baardseng,1971,177,Oslo,0,845622,335755,301,Oslo
+KMD,ekspedisjonssjef,Mann,Bjørn Olav,,Megard,1971,1166,Oslo,0,1028968,433521,301,Oslo
+KLD,ekspedisjonssjef,Kvinne,Lene,,Lyngby,1971,378,Oslo,0,1168530,479491,301,Oslo
+FIN,ekspedisjonssjef,Kvinne,Siren,,Solhaug,1972,658,Oslo,260763,919610,374459,301,Oslo
+SD,ekspedisjonssjef,Kvinne,Tove Kristin,,Flølo,1972,661,Oslo,0,1110974,446987,301,Oslo
+,direktør,Kvinne,Kristin,,Danielsen,1972,880,Oslo,0,1212690,492078,301,Oslo
+SMK,ekspedisjonssjef,Kvinne,Therese,,Steen,1972,281,Oslo,3617220,1476202,645832,301,Oslo
+,direktør,Kvinne,Hilde,,Singsaas,1972,655,Oslo,5428240,1502072,643602,301,Oslo
+FD,ekspedisjonssjef,Mann,Per Henning,,Vaglum,1973,880,Oslo,0,947438,416424,301,Oslo
+KLD,ekspedisjonssjef,Kvinne,Ingvild,Andreassen,Sæverud,1973,1187,Oslo,0,1020746,279991,301,Oslo
+OED,departementsråd,Mann,Andreas Hilding,,Eriksen,1973,492,Oslo,0,1271996,528143,301,Oslo
+SMK,ekspedisjonssjef,Mann,Lars-Henrik,,Myrmel-Johansen,1973,1181,Oslo,193116,1342727,554144,301,Oslo
+,direktør,Kvinne,Kjersti,,Mo,1974,871,Oslo,0,1507298,661307,301,Oslo
+ASD,ekspedisjonssjef,Mann,Dag Sivert,,Holen,1975,557,Oslo,0,815688,315865,301,Oslo
+KUD,ekspedisjonssjef,Kvinne,Christine,,Hamnen,1977,455,Oslo,0,1169966,474835,301,Oslo
+KD,ekspedisjonssjef,Mann,Morten,Anstorp,Rosenkvist,1978,655,Oslo,0,954020,424825,301,Oslo
+FIN,ekspedisjonssjef,Kvinne,Tina Victoria,,Engelsrud,1984,363,Oslo,185205,1101817,448884,301,Oslo
+KLD,ekspedisjonssjef,Mann,Torgeir,,Strøm,1962,2385,Brumunddal,1722303,1000928,430661,412,Ringsaker
+FD,ekspedisjonssjef,Mann,Jens-Thorleif,,Thorsen,1955,3472,Bødalen,556937,1369582,545832,627,Røyken
+,direktør,Kvinne,Marie Benedicte,,Bjørnland,1965,3216,Sandefjord,0,1463512,640329,710,Sandefjord
+,direktør,Kvinne,Ingrid,,Sølvberg,1970,4307,Sandnes,619062,1123964,450197,1102,Sandnes
+,direktør,Mann,William Johan,,Bertheussen,1964,2004,Lillestrøm,1059027,1211480,492423,231,Skedsmo
+NFD,ekspedisjonssjef,Mann,Jan Tore,,Føsund,1964,1467,Strømmen,22915972,1301284,647578,231,Skedsmo
+KMD,ekspedisjonssjef,Kvinne,Anne Karin,,Hamre,1965,6857,Sogndal,0,1432733,594857,1420,Sogndal
+KD,ekspedisjonssjef,Mann,Eivind,,Heder,1961,2016,Frogner,442553,1199519,496910,226,Sørum
+,direktør,Kvinne,Anne,Næss,Myhrvold,1966,4041,Hafrsfjord,1089471,1441923,605884,1103,Stavanger
+,direktør,Kvinne,Trude,,Vollheim,1964,7055,Ranheim,0,1169365,508879,5035,Stjørdal
+,direktør,Mann,Olav,,Akselsen,1965,5417,Stord,0,1313310,569756,1221,Stord
+,direktør,Mann,Ole Arve,,Misund,1957,9007,Tromsø,0,979672,494146,1902,Tromsø
+,direktør,Kvinne,Randi,Skirstad,Grini,1966,7036,Trondheim,931770,1051542,430083,5001,Trondheim
+,direktør,Mann,Roar,,Olsen,1970,7043,Trondheim,0,1301647,586221,5001,Trondheim
+,direktør,Kvinne,Inger Cecilie,,Laake,1966,2067,Jessheim,18275717,1039798,543484,235,Ullensaker
+,direktør,Mann,Einar,Vik,Arset,1976,6065,Ulsteinvik,0,552208,291495,1516,Ulstein
+,direktør,Mann,Bård Vegar,,Solhjell,1971,1555,Son,0,1315257,573460,211,Vestby
+,direktør,Mann,Lars Peder,,Brekk,1955,7900,Rørvik,4695037,1460942,662535,5050,Vikna
+,direktør,Kvinne,Trude,Tronerud,Andersen,1975,5709,Voss,2400982,1909912,604382,1235,Voss
